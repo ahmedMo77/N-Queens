@@ -16,7 +16,7 @@ The N-Queens Puzzle Game is an interactive application that allows users to solv
 ## Technologies Used
 
 - **Programming Language**: Python 3.x
-- **GUI Framework**: Tkinter (built-in Python library for GUI development)
+- **GUI Framework**: Tkinter library for GUI
 - **AI Algorithm**: Backtracking Algorithm for solving the N-Queens puzzle
 - **Project Type**: Interactive Puzzle Game with Graphical Interface
 
