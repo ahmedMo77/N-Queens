@@ -21,11 +21,11 @@ The project consists of the following classes:
 ## Requirements
 
 - Python 3.x
-- Tkinter (comes pre-installed with Python, no need to install separately)
+- Tkinter library
 
 ## Installation
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/n-queens-puzzle.git
-   cd n-queens-puzzle
+   git clone https://github.com/ahmedMo77/N-Queens-puzzle.git
+   cd N-Queens-puzzle
